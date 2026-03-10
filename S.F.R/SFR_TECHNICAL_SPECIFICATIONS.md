@@ -15,7 +15,7 @@ The engine of the S.F.R. consists of **six concentrated power lasers (Catalyzers
 
 ### 2.1 Geometric Orientation
 The lasers are positioned in a **Dual-Triangular Configuration**. 
-* Two independent sets of three lasers are oriented at $120^{\circ}$ offsets.
+* Two independent sets of three lasers are oriented at 120 degree offsets.
 * This creates a perfectly balanced geometric "pressure cage" around the focal point.
 * This specific orientation was pioneered by Parafield to eliminate "Hydrodynamic Instability" during the compression phase.
 
@@ -38,7 +38,7 @@ The S.F.R. does not "heat" fuel in the traditional sense; it utilizes **High-Vel
 When the Hex-Triad array fires, the lasers strike the outer surface of the fuel pellet (the **Ablator**). This surface instantly vaporizes into a high-density plasma that expands *outward* at relativistic speeds. 
 
 ### 4.2 Newton's Third Law & Implosion
-Following the principle of **Action-Reaction**, the outward explosion of the surface layer creates an equal and opposite **Inward Pressure Wave**. This "Sheer Force" drives the remaining fuel toward the center at speeds exceeding $350\ km/s$.
+Following the principle of **Action-Reaction**, the outward explosion of the surface layer creates an equal and opposite **Inward Pressure Wave**. This "Sheer Force" drives the remaining fuel toward the center at speeds exceeding 350km/s.
 
 
 
