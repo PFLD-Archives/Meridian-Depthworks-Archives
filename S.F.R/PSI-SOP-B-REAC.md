@@ -66,7 +66,7 @@ In the event of a Thermal Runaway or Structural Breach, follow the **Triple-Lock
 If the SCRAM fails and the reactor enters **Thermal Runaway (STI 10.0)**, the fuel must be physically removed. 
 * **Procedure:** Manually eject all 4 Fuel Cells from the terminal located in the Reactor Cavern.
 * **Timing:** Cells must be ejected within 1-3 seconds of each other. 
-* **Warning:** Entering the chamber area during Runaway is a **Fatal Action Protocol**. Personnel are to evacuate Sector B immediately after ejection.
+* **Warning:** Entering the internal structure during Runaway is LETHAL due to the sheer amount of radiation. Personnel are to evacuate the chamber immediately after ejection.
 
 ---
 
