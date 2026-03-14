@@ -1,7 +1,8 @@
 # PARAFIELD SCIENTIFIC INNOVATORS: AUDIO TRANSCRIPT
 ## RECORDING ID: VITALIS-MEETING-001
 **LOCATION:** SECTOR D - SUB-LEVEL 14 (SECURE VAULT)
-**PARTICIPANTS:** * Batista Nigel Cakewalk (CEO / Prime Minister)
+**PARTICIPANTS:** 
+* Batista Nigel Cakewalk (CEO / Prime Minister)
 * Randi Mathias (Site Director - Meridian Depthworks)
 * David Robertson (Senior Scientist)
 * F.A.A.S. (Facility Automated Announcement/Assistance System)
@@ -50,7 +51,7 @@
 
 **[00:02:15] <SOUND OF LEO GURGLING. F.A.A.S. PLAYS A SOFT, CALMING CHIME.>**
 
-**[00:02:20] F.A.A.S.:** "Don't worry, Leo. Your 'father' has no idea what he's doing, but luckily for you, I have downloaded three thousand books on parenting. Step one: Do not let David Robertson hold the baby until he washes those DARN chemical stains off his coat."
+**[00:02:20] F.A.A.S.:** "Don't worry, Leo. Your 'father' has no idea what the hell he's doing, but luckily for you, I have downloaded three thousand books on parenting. Step one: Do not let David Robertson hold the baby until he washes those DARN chemical stains off his coat."
 
 **[DAVID LAUGHS FOLLOWING A SUDDEN CUT TO THE RECORDING. END OF RECORDING.]**
 ---
