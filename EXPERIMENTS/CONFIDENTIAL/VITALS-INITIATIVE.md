@@ -1,5 +1,5 @@
 # PARAFIELD SCIENTIFIC INNOVATORS
-## TECHNICAL LOG: THE VITALIS INITIATIVE (EYES ONLY)
+## TECHNICAL LOG: THE VITALS INITIATIVE (EYES ONLY)
 **Author:** B.N. Cakewalk  
 **Location:** Sector D - Critical Experimental Wing [DEEP-SITE]  
 **Security Clearance:** PRIME-RED (Zero-Distribution)
