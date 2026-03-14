@@ -21,7 +21,7 @@
 
 **[00:00:35] BATISTA:** "I crossed a line. A massive one. I was... I was looking at you, but I wasn't seeing a friend. I was seeing a wall. I was seeing another 'Oversight Committee' trying to take the only thing I have left."
 
-**[00:00:45] RANDI:** (Sighs) "Batista, I’ve been with you since the first stone was laid in Sector A. I’ve seen you stressed, I’ve seen you angry, but I’ve never seen you... like that. You looked like a stranger."
+**[00:00:45] RANDI:** (Sighs) "Batista, I’ve been with you for years now. I’ve seen you stressed, I’ve seen you angry, but I’ve never seen you... like that. You looked like a stranger."
 
 **[00:00:54] BATISTA:** "I know. And I’m sorry. Truly. I didn't come here as the Prime Minister or the CEO. I came here as... as a man who is terrified. I’m out of my depth, Randi. I can build a sun in a basement, but I don't know how to protect Leo without becoming the very thing my grandfather hated."
 
