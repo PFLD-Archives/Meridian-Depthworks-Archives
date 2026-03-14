@@ -7,7 +7,7 @@
 
 ---
 
-**[00:45:12] SOUND OF RAIN THUNDERING AGAINST REINFORCED GLASS. LIQUOR POURING HARSHLY INTO A CRYSTAL GLASS.**
+**[00:45:12] THE BUZZING SOUNDS FROM THE LIGHTS. LIQUOR POURING HARSHLY INTO A CRYSTAL GLASS.**
 
 **[00:45:18] RANDI:** "Batista, you need to sit down. We’ve been over the data for four hours. My head is spinning, and yours should be too. What you’ve done in Sector D... it’s not just a breach of Parafield protocol. IT’S A VIOLATION OF THE UNITED COLUMBUS BIO-ETHICS ACT. IT’S ILLEGAL IN EVERY SOVEREIGN TERRITORY ON THIS PLANET!"
 
