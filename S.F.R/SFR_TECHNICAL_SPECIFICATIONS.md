@@ -35,7 +35,7 @@ The S.F.R. is not a standalone machine but a **superstructure** integrated into 
 The S.F.R. does not "heat" fuel in the traditional sense; it utilizes **High-Velocity Ablative Compression** to force atomic nuclei together.
 
 ### 4.1 The Ablation Process
-When the Hex-Triad array fires, the lasers strike the outer surface of the fuel pellet (the **Ablator**). This surface instantly vaporizes into a high-density plasma that expands *outward* at relativistic speeds. 
+When the Hex-Triad array fires, the lasers strike the outer surface of the fuel pellet (the **Ablator**). This surface instantly vaporizes into a high-density plasma that expands *outward* at extreme velocities.
 
 ### 4.2 Newton's Third Law & Implosion
 Following the principle of **Action-Reaction**, the outward explosion of the surface layer creates an equal and opposite **Inward Pressure Wave**. This "Sheer Force" drives the remaining fuel toward the center at speeds exceeding 350km/s.

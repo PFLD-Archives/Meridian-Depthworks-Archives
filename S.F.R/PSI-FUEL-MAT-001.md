@@ -50,7 +50,7 @@ Parafield has developed three primary grades of the [REDACTED] compound to suit 
 ## 4. THE "SHATTER" POINT (FISSION TRANSITION)
 All isotopes in the [REDACTED] series share a common danger: **The Shatter Point**. 
 
-If the internal kinetic energy exceeds **41.2 $keV$**, the heavy nuclei in the fuel cells stop fusing and begin to **Fission (Shatter)**. This creates a feedback loop where the fission energy drives more fusion, which in turn causes more fission. This results in the "Golden Glow" phenomenon observed during the 1987 incident.
+If the internal kinetic energy exceeds **41.2 $keV$**, the heavy nuclei in the fuel cells stop fusing and begin to **Fission (Shatter)**. This creates a feedback loop where the fission energy drives more fusion, which in turn causes more fission. This results in the **"Golden Glow"** — a visible fission-luminescence event first recorded during the **1987 Thermal Runaway**, when primary SCRAM failure allowed the STI to reach 10.0 before manual ejection could be performed.
 
 
 

@@ -12,6 +12,7 @@ Before the Hex-Triad array is energized, Reactor Operations (R:O) must confirm t
 2. **Lithium Flow:** Blanket coolant must be circulating at a rate of 5,000 L/min.
 3. **Magnetic Dampeners:** Stabilizers must be energized to 100% to prevent chamber vibration during laser discharge.
 4. **Catalyzer Calibration:** All Catalyzers must be properly calibrated, any misfires can cause critical damages to the Superstructure.
+5. **E.F.S.S. Readiness:** Confirm Halon-1301 and Lith-X suppression systems are armed and on standby. Water-based suppression must be physically locked out prior to ignition.
 
 ---
 
@@ -55,7 +56,7 @@ The chamber walls are subject to extreme neutron bombardment.
 In the event of a Thermal Runaway or Structural Breach, follow the **Triple-Lock SCRAM** procedure:
 
 1. **Grid Decouple:** Sever the connection to the Meridian Power Grid to prevent a back-surge.
-2. **Catalyzer Cutoff:** Disengage the master laser switch. (Note: In 1987 Mark I models, this is a physical toggle to prevent F.A.A.S. software hang-ups).
+2. **Catalyzer Cutoff:** Disengage the master laser switch. (Note: The S.F.R. Mark I uses a physical toggle by design — this prevents F.A.A.S. software hang-ups from blocking the cutoff signal).
 3. **Baffle Deployment:** Deploy the lead-boron internal baffles to absorb the remaining neutron flux.
 
 

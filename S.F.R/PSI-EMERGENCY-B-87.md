@@ -51,7 +51,7 @@ If the Acheron vents fail and the STI hits 10.0 (Thermal Runaway), the fuel rece
 
 * **The Procedure:** Manual activation of the hydraulic ejectors located at the base of the S.F.R. superstructure.
 * **The Drop:** The 4 fuel cells are dropped directly into a **Borated Water Pit** 50 meters below the chamber.
-* **Requirement:** As documented in the '87 Incident, this requires a **1-3 second synchronization** between all four ejection bolts. Failure to synchronize will result in a magnetic shear and superstructure collapse.
+* **Requirement:** As documented in the **1987 Thermal Runaway Event**, this requires a **1-3 second synchronization** between all four ejection bolts. The '87 event confirmed that a failed primary SCRAM can escalate to full Thermal Runaway; the ejection procedure was the sole factor that prevented total superstructure loss. Failure to synchronize will result in a magnetic shear and superstructure collapse.
 
 ---
 **END OF DOCUMENT**
