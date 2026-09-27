@@ -13,7 +13,8 @@ The **C-2500 Power Laser (PL)** is a heavy-duty, neutron-pumped catalytic laser 
 * **Thermal Core Rings:** Glowing orange induction rings that stabilize the laser's frequency and pre-heat the neutron-pump gas.
 * **External Coolant Caging:** A series of longitudinal pipes surrounding the core, responsible for circulating liquid nitrogen to mitigate **Stress (%)**.
 
-
+### 1.2 Output Classification
+For reference, contemporary laser fusion research (circa 1965) achieves output in the single-digit joule range per beam across multi-beam arrays. A single C-2500 discharge exceeds the combined output of the entire known experimental laser fusion field by several orders of magnitude. Exact yield figures remain LEVEL 3 restricted. Precise output data would allow calculation of the minimum Hex-Triad desynchronization required to trigger a Shatter Point event, information Parafield considers too dangerous for general circulation outside Reactor Operations.
 
 ---
 
