@@ -8,7 +8,7 @@
 - Batista, Chief Executive Officer / Prime Minister, Parafield Corp. / United Columbus
 - Dr. Elena Voss, Senior Physicist, Reactor Operations
 - Dr. Marcus Feld, Materials Engineer, Sector B
-- F.A.A.S., Facility Automated Assistance System (Passive Monitoring)
+- F.A.M.S., Facility Automated Assistance System (Passive Monitoring)
 
 ---
 
@@ -72,7 +72,7 @@
 
 [THE BEAM DISCHARGES, A CONTINUOUS BLINDING WHITE-BLUE COLUMN OF LIGHT TEARING ACROSS THE ROOM. IT DOES NOT STOP. THE HUM BECOMES A SCREAMING WHINE]
 
-**F.A.A.S.:** *(voice cutting in over the wall speaker, uncharacteristically sharp)* Oh, what the fuck—radiation spike detected, Sector containment thresholds exceeded, this was NOT on my scheduled maintenance log—
+**F.A.M.S.:** *(voice cutting in over the wall speaker, uncharacteristically sharp)* Oh, what the fuck—radiation spike detected, Sector containment thresholds exceeded, this was NOT on my scheduled maintenance log—
 
 **BATISTA:** *(shielding his eyes with his forearm, staggering back a step, shouting over the noise)* PABLO, HOW LONG IS THIS SUPPOSED TO FIRE FOR—
 
@@ -82,7 +82,7 @@
 
 **FELD:** *(backing further away, hands over his ears, nearly tripping over a toolbox)* THAT IS NOT WHAT "I TESTED THIS" IS SUPPOSED TO SOUND LIKE, WHAT THE FUCK, PABLO—
 
-**F.A.A.S.:** *(voice climbing in pitch, almost frantic)* Structural stress on the east wall is climbing, this is well past anything in the C-2500 spec, somebody turn that off, TURN THAT OFF—
+**F.A.M.S.:** *(voice climbing in pitch, almost frantic)* Structural stress on the east wall is climbing, this is well past anything in the C-2500 spec, somebody turn that off, TURN THAT OFF—
 
 [THE BEAM CUTS OFF ABRUPTLY. SMOKE POURS OFF THE EMITTER BARREL. A LONG, RINGING SILENCE FOLLOWS]
 
@@ -100,21 +100,21 @@
 
 **BATISTA:** *(snapping out of it, sharp)* Pablo. That was six inches of reinforced concrete. And it kept firing for eleven seconds.
 
-**F.A.A.S.:** *(calm, synthetic voice from a wall speaker no one noticed was on)* For the record, structural sensors in the adjoining sector just registered a Level 2 vibration event. I have logged this incident as HSDR-INC-001. Would anyone like me to notify Reactor Operations?
+**F.A.M.S.:** *(calm, synthetic voice from a wall speaker no one noticed was on)* For the record, structural sensors in the adjoining sector just registered a Level 2 vibration event. I have logged this incident as HSDR-INC-001. Would anyone like me to notify Reactor Operations?
 
-**FELD:** *(whipping around toward the speaker)* Jesus Christ, F.A.A.S. was listening this whole time?!
+**FELD:** *(whipping around toward the speaker)* Jesus Christ, F.A.M.S. was listening this whole time?!
 
-**F.A.A.S.:** I am always listening, Dr. Feld. It is in my core directive.
+**F.A.M.S.:** I am always listening, Dr. Feld. It is in my core directive.
 
 **VOSS:** *(hand on her chest, still catching her breath)* That is deeply unsettling and also currently the least of my concerns.
 
-**PABLO:** *(waving at the speaker like it's a person)* Hey F.A.A.S., did you see that?! Tell them how insane that was!
+**PABLO:** *(waving at the speaker like it's a person)* Hey F.A.M.S., did you see that?! Tell them how insane that was!
 
-**F.A.A.S.:** I do not have an opinion on "insane," Pablo. I do have a structural integrity concern, a fire suppression readiness check pending, and a strong recommendation that this device never be tested indoors again.
+**F.A.M.S.:** I do not have an opinion on "insane," Pablo. I do have a structural integrity concern, a fire suppression readiness check pending, and a strong recommendation that this device never be tested indoors again.
 
 **BATISTA:** *(pointing at the speaker, still staring at the trench)* Do not notify Reactor Operations yet. I want to handle this internally.
 
-**F.A.A.S.:** Understood. Holding the log at CONFIDENTIAL, Family Access Only, per existing classification pattern.
+**F.A.M.S.:** Understood. Holding the log at CONFIDENTIAL, Family Access Only, per existing classification pattern.
 
 **BATISTA:** *(finally turning back to Pablo, still shaken)* That was six inches of reinforced concrete.
 

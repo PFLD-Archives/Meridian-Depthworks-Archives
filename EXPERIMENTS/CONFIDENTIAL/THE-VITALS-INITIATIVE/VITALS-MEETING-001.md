@@ -5,7 +5,7 @@
 * Batista Nigel Cakewalk (CEO / Prime Minister)
 * Randi Mathias (Site Director - Meridian Depthworks)
 * David Robertson (Senior Scientist)
-* F.A.A.S. (Facility Automated Announcement/Assistance System)
+* F.A.M.S. (Facility Automated Announcement/Assistance System)
 
 ---
 
@@ -25,11 +25,11 @@
 
 **[00:00:35] DAVID:** "Is that... a child? Wait. Wait a minute. That’s a Kanji child. Batista, the registry says there hasn't been a birth in our district for three years. Where did you—did you *kidnap* a citizen?!"
 
-**[00:00:42] F.A.A.S. (Via wall speaker):** "Searching Parafield Personnel Database... Searching National Registry..."
+**[00:00:42] F.A.M.S. (Via wall speaker):** "Searching Parafield Personnel Database... Searching National Registry..."
 
 **[00:00:48] SOUND OF SCANNING BEAM HUMMING**
 
-**[00:00:50] F.A.A.S.:** "Wait... what the fuck? Prime Minister, my sensors are detecting a 15.4% soul-signature match to *you*. I was unaware that Kanji men were capable of becoming pregnant. My biology subroutines must be severely outdated."
+**[00:00:50] F.A.M.S.:** "Wait... what the fuck? Prime Minister, my sensors are detecting a 15.4% soul-signature match to *you*. I was unaware that Kanji men were capable of becoming pregnant. My biology subroutines must be severely outdated."
 
 **[00:01:02] DAVID:** (Stammers) "It's-it's not-that's not how biology works, you bucket of bolts!"
 
@@ -41,7 +41,7 @@
 
 **[00:01:35] RANDI:** "This is... this is a breakthrough that changes everything. And you did it in a basement with a rocking chair and a hand-woven rug? You absolute lunatic."
 
-**[00:01:42] F.A.A.S.:** "Analysis complete. Subject 'Leo' is verified as a viable Human Kanji. Despite my initial confusion regarding the Prime Minister’s reproductive capabilities, I am recalibrating Sector D's life support to 'Nursery-Optimal.' I shall also begin a localized encryption wipe of this floor. No one sees the boy unless they go through me."
+**[00:01:42] F.A.M.S.:** "Analysis complete. Subject 'Leo' is verified as a viable Human Kanji. Despite my initial confusion regarding the Prime Minister’s reproductive capabilities, I am recalibrating Sector D's life support to 'Nursery-Optimal.' I shall also begin a localized encryption wipe of this floor. No one sees the boy unless they go through me."
 
 **[00:01:55] DAVID:** "Well. (Sighs) I suppose I’m staying for dinner, then. I assume you don't have any proper baby formula down here, you old grump? I’ll have to synthesize something that doesn't taste like industrial sludge."
 
@@ -49,9 +49,9 @@
 
 **[00:02:08] RANDI:** "(Rubbing temples) I have to rewrite eighty-four different security protocols. I'm going to need a very large drink. But... he is a handsome little thing, isn't he?"
 
-**[00:02:15] <SOUND OF LEO GURGLING. F.A.A.S. PLAYS A SOFT, CALMING CHIME.>**
+**[00:02:15] <SOUND OF LEO GURGLING. F.A.M.S. PLAYS A SOFT, CALMING CHIME.>**
 
-**[00:02:20] F.A.A.S.:** "Don't worry, Leo. Your 'father' has no idea what the hell he's doing, but luckily for you, I have downloaded three thousand books on parenting. Step one: Do not let David Robertson hold the baby until he washes those DARN chemical stains off his coat."
+**[00:02:20] F.A.M.S.:** "Don't worry, Leo. Your 'father' has no idea what the hell he's doing, but luckily for you, I have downloaded three thousand books on parenting. Step one: Do not let David Robertson hold the baby until he washes those DARN chemical stains off his coat."
 
 **[DAVID LAUGHS FOLLOWING A SUDDEN CUT TO THE RECORDING. END OF RECORDING.]**
 ---

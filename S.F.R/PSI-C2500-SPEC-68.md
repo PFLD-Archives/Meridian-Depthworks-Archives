@@ -29,14 +29,14 @@ Operating the C-2500 involves a critical balance between raw power output and th
 
 ---
 
-## 3. CONTROL DELEGATION: F.A.A.S. & CREW ASSISTANCE
+## 3. CONTROL DELEGATION: F.A.M.S. & CREW ASSISTANCE
 Managing six C-2500 units during a high-output cycle can exceed the cognitive capacity of a single operator. Parafield has implemented two delegation protocols to ensure the S.F.R. meets power demands.
 
-### 3.1 F.A.A.S. Autocontrol (The "Auto-Pilot")
-If an operator is overwhelmed, they may engage **F.A.A.S. Autocontrol** for the Catalyzer Array. 
-* **Power Demand Targeting:** F.A.A.S. will automatically adjust the output of each C-2500 to reach a specific $keV$ or power grid demand set by the user.
-* **Instrument Prioritization:** While F.A.A.S. is aggressive in meeting power targets, its core programming **prioritizes the safety of the C-2500 hardware**. It will preemptively throttle power or trigger purges to prevent a 100% Stress Overload.
-* **Drawback:** F.A.A.S. is often more conservative than a human operator; it may sacrifice $keV$ stability to save a laser, which can lead to STI fluctuations.
+### 3.1 F.A.M.S. Autocontrol (The "Auto-Pilot")
+If an operator is overwhelmed, they may engage **F.A.M.S. Autocontrol** for the Catalyzer Array. 
+* **Power Demand Targeting:** F.A.M.S. will automatically adjust the output of each C-2500 to reach a specific $keV$ or power grid demand set by the user.
+* **Instrument Prioritization:** While F.A.M.S. is aggressive in meeting power targets, its core programming **prioritizes the safety of the C-2500 hardware**. It will preemptively throttle power or trigger purges to prevent a 100% Stress Overload.
+* **Drawback:** F.A.M.S. is often more conservative than a human operator; it may sacrifice $keV$ stability to save a laser, which can lead to STI fluctuations.
 
 ### 3.2 Crew Coordination (Co-Worker Assistance)
 Operators may split the Hex-Triad array between multiple stations.

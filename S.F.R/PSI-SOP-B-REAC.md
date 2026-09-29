@@ -17,7 +17,7 @@ Before the Hex-Triad array is energized, Reactor Operations (R:O) must confirm t
 ---
 
 ## 2. THE STARTUP SEQUENCE (IGNITION)
-Ignition is a phased process handled primarily by the **F.A.A.S. (Facility Automated Assistance System)** with human oversight.
+Ignition is a phased process handled primarily by the **F.A.M.S. (Facility Automated Assistance System)** with human oversight.
 
 ### 2.1 Laser Charging
 The 6 Catalyzers require a 120-second charge cycle. During this time, the "Hum" in Sector B will increase to approximately 110 decibels. Hearing protection is mandatory.
@@ -25,7 +25,7 @@ The 6 Catalyzers require a 120-second charge cycle. During this time, the "Hum" 
 ### 2.2 Target Injection
 The [REDACTED] fuel pellet is pneumatically injected into the geometric center of the chamber.
 * **Tolerance:** The pellet must be within 2 microns of the focal point.
-* **Warning:** If the target is misaligned, F.A.A.S. will abort the fire sequence to prevent "Wall-Striking."
+* **Warning:** If the target is misaligned, F.A.M.S. will abort the fire sequence to prevent "Wall-Striking."
 
 ### 2.3 Discharge
 Once the target is seated, the Hex-Triad fires simultaneously. 
@@ -56,7 +56,7 @@ The chamber walls are subject to extreme neutron bombardment.
 In the event of a Thermal Runaway or Structural Breach, follow the **Triple-Lock SCRAM** procedure:
 
 1. **Grid Decouple:** Sever the connection to the Meridian Power Grid to prevent a back-surge.
-2. **Catalyzer Cutoff:** Disengage the master laser switch. (Note: The S.F.R. Mark I uses a physical toggle by design — this prevents F.A.A.S. software hang-ups from blocking the cutoff signal).
+2. **Catalyzer Cutoff:** Disengage the master laser switch. (Note: The S.F.R. Mark I uses a physical toggle by design — this prevents F.A.M.S. software hang-ups from blocking the cutoff signal).
 3. **Baffle Deployment:** Deploy the lead-boron internal baffles to absorb the remaining neutron flux.
 
 
