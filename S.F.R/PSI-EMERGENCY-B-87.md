@@ -112,5 +112,16 @@ If the Acheron vents fail and the STI hits 10.0 (Thermal Runaway), the fuel rece
 * **The Drop:** The 4 fuel cells are dropped directly into a **Borated Water Pit** 50 meters below the chamber.
 * **Requirement:** As documented in the **1987 Thermal Runaway Event**, this requires a **1-3 second synchronization** between all four ejection bolts. The '87 event confirmed that a failed primary SCRAM can escalate to full Thermal Runaway; the ejection procedure was the sole factor that prevented total superstructure loss. Failure to synchronize will result in a magnetic shear and superstructure collapse.
 
+### 6.1 Manual Interior Ejection (Unsanctioned)
+If the hydraulic ejector controls themselves are unreachable, unresponsive, or the operator has reason to believe the 1-3 second synchronization cannot be met remotely, there exists a documented but explicitly unsanctioned last resort: entering the internal structure directly and manually triggering each of the four ejection bolts by hand, in person, from inside the superstructure itself. This is not an approved procedure and appears nowhere in standard training, it exists only because at least one R:O Engineer has proposed it under active crisis conditions.
+
+> **R:O Engineer:** "Screw it, I MIGHT have an idea. But it's gonna be a death wish, but what's there to lose? Climb into the superstructure and TRY to eject the fuel cells... If we all get it correctly, it MIGHT succeed in stalling.. You have a minute left, good luck..."
+
+F.A.M.S. is aware of this option and has, on at least one recorded occasion, endorsed it, with a caveat that goes beyond its normal advisory language.
+
+> **F.A.M.S.:** "Attention, any remaining personnel... This is our last chance to prevent the complete destruction of the facility... Get in the internal structure and eject all Fuel Cells in a **1-3 second synchronization**... It's a suicide mission but... **Trust me... go.**"
+
+The "Trust me" phrasing is unusual for F.A.M.S., whose standard advisories are clinical and probability-based. Its appearance in this context has not been explained in any recovered log, and Reactor Operations leadership has not clarified whether it reflects a deliberate personality parameter, a corrupted response, or something else entirely.
+
 ---
 **END OF DOCUMENT**
