@@ -9,7 +9,7 @@
 ## I. THE INITIATIVE: THE EXTINCTION VARIABLE
 The data remains undeniable. The Human Kanji population density is dropping below the "Threshold of Recovery." While the world looks to Parafield for the S.F.R. and unlimited power, they are blind to the fact that their leaders are fading. I cannot lead a nation of ghosts. 
 
-If Nature will not provide us with heirs, I will build them.
+If Nature does not provide us with heirs, I will build them.
 
 ## II. THE METHODOLOGY: SOUL-SYNTHESIS (S-S)
 Standard cloning is a failure. A Kanji without the "Spark" is just a hollow shell—biologically active, but spiritually inert. Five years ago, I realized the only catalyst that works is a direct **Essence Transfer**.
