@@ -52,6 +52,21 @@ If the Master Laser Switch fails to engage (mechanical fault, jammed disconnect,
 ### 5.1 The Lockout Problem
 A failed Primary SCRAM frequently coincides with a **security lockout** on the override systems, a defensive measure that, in this scenario, becomes an obstacle. F.A.M.S. cannot engage DVP on its own authority while locked out. Two parallel paths exist to clear it:
 
+**Initial Callout:** Primary SCRAM failure is followed by a brief delay before the facility intercom activates. Whoever recognizes the lockout first is responsible for directing personnel to the override switches. This is not standardized to one role, in practice it has come from whoever is present and paying attention. The exact number of overrides required varies by scenario and is announced at the time. The following are documented examples pulled from drill logs and the '87 incident record:
+
+> **Maintenance Personnel:** "Lockout's active, SCRAM won't take! We need (?) overrides thrown, everyone who can move, get to a server room and hit those switches, NOW!"
+
+> **Maintenance Personnel:** "We're locked out down here! I need (?) switches hit across every override station we've got, go, go, go!"
+
+> **Randi Mathas (Site Director):** "This is Mathas. Primary SCRAM has failed and we are locked out. I need (?) override switches activated, server rooms and Central Mainframe, immediately. Move."
+
+> **F.A.M.S.:** "Notice: Primary SCRAM failure detected. Security lockout in effect. I am unable to engage containment without manual override. (?) override switches must be activated. All personnel, please proceed to your nearest override switch."
+
+**Advisory Against DVP:** In scenarios where structural or Catalyzer damage is already severe enough that DVP carries an unacceptably low chance of success, F.A.M.S. will issue an advisory against proceeding, though it will not prevent personnel or its own automatic failsafe from attempting it regardless.
+
+> **F.A.M.S.:** "Use of the Desync-Vent Protocol is not advised due to severe reactor damage."
+> **Maintenance Personnel:** "You heard the thing. Don't bother shutting it down, it's most likely a lost cause now. I suggest evacuating."
+
 * **Personnel Override:** Reactor Operations staff on shift must physically reach and activate the manual override switches. These are not located in the reaction chamber itself, but distributed across the **Meridian Depthworks server rooms**, with one additional override located inside the **Central Mainframe** (the housing for F.A.M.S. itself). The number of switches requiring activation varies by scenario and staffing level at time of incident.
 * **F.A.M.S. Cryptographic Override:** In parallel, F.A.M.S. will attempt to brute-force the master lockout code independently. If successful, F.A.M.S. immediately seizes full authority over all Reactor Operations systems and begins a fixed prep sequence:
   1. Reconfigure the C-2500 array and adjust coolant flow to each Catalyzer for the desync attempt.
