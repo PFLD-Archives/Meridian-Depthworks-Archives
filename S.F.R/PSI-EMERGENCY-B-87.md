@@ -65,7 +65,6 @@ A failed Primary SCRAM frequently coincides with a **security lockout** on the o
 **Advisory Against DVP:** In scenarios where structural or Catalyzer damage is already severe enough that DVP carries an unacceptably low chance of success, F.A.M.S. will issue an advisory against proceeding, though it will not prevent personnel or its own automatic failsafe from attempting it regardless.
 
 > **F.A.M.S.:** "Use of the Desync-Vent Protocol is not advised due to severe reactor damage."
-> **Maintenance Personnel:** "You heard the thing. Don't bother shutting it down, it's most likely a lost cause now. I suggest evacuating."
 
 * **Personnel Override:** Reactor Operations staff on shift must physically reach and activate the manual override switches. These are not located in the reaction chamber itself, but distributed across the **Meridian Depthworks server rooms**, with one additional override located inside the **Central Mainframe** (the housing for F.A.M.S. itself). The number of switches requiring activation varies by scenario and staffing level at time of incident.
 * **F.A.M.S. Cryptographic Override:** In parallel, F.A.M.S. will attempt to brute-force the master lockout code independently. If successful, F.A.M.S. immediately seizes full authority over all Reactor Operations systems and begins a fixed prep sequence:
@@ -117,9 +116,13 @@ If the hydraulic ejector controls themselves are unreachable, unresponsive, or t
 
 > **R:O Engineer:** "Screw it, I MIGHT have an idea. But it's gonna be a death wish, but what's there to lose? Climb into the superstructure and TRY to eject the fuel cells... If we all get it correctly, it MIGHT succeed in stalling.. You have a minute left, good luck..."
 
+> **R:O Engineer:** "Okay, okay, there's one more thing we haven't tried. It's insane, but so is everything else today. Someone needs to get inside and pull those bolts by hand, all four, together. No guarantees, no second attempt, just... try. Clock's running."
+
 F.A.M.S. is aware of this option and has, on at least one recorded occasion, endorsed it, with a caveat that goes beyond its normal advisory language.
 
 > **F.A.M.S.:** "Attention, any remaining personnel... This is our last chance to prevent the complete destruction of the facility... Get in the internal structure and eject all Fuel Cells in a **1-3 second synchronization**... It's a suicide mission but... **Trust me... go.**"
+
+> **F.A.M.S.:** "Warning to all remaining personnel. Standard protocols have been exhausted. One option remains: enter the structure, reach the ejection bolts, and release them together within the window. I cannot promise this will work. I cannot promise you will walk out. But it is the only chance left. **Trust me... go.**"
 
 The "Trust me" phrasing is unusual for F.A.M.S., whose standard advisories are clinical and probability-based. Its appearance in this context has not been explained in any recovered log, and Reactor Operations leadership has not clarified whether it reflects a deliberate personality parameter, a corrupted response, or something else entirely.
 
