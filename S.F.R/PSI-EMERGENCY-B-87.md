@@ -52,10 +52,27 @@ If the Master Laser Switch fails to engage (mechanical fault, jammed disconnect,
 ### 5.1 The Lockout Problem
 A failed Primary SCRAM frequently coincides with a **security lockout** on the override systems, a defensive measure that, in this scenario, becomes an obstacle. F.A.M.S. cannot engage DVP on its own authority while locked out. Two parallel paths exist to clear it:
 
-* **Personnel Override:** Reactor Operations staff on shift must physically reach and activate the manual override switches distributed around the chamber floor. The number of switches requiring simultaneous activation varies by scenario and staffing level at time of incident.
-* **F.A.M.S. Cryptographic Override:** In parallel, F.A.M.S. will attempt to brute-force the master lockout code independently. There is a nonzero chance F.A.M.S. succeeds and clears all locks before personnel finish their manual circuit, in which case DVP primes automatically without further human input.
+* **Personnel Override:** Reactor Operations staff on shift must physically reach and activate the manual override switches. These are not located in the reaction chamber itself, but distributed across the **Meridian Depthworks server rooms**, with one additional override located inside the **Central Mainframe** (the housing for F.A.M.S. itself). The number of switches requiring activation varies by scenario and staffing level at time of incident.
+* **F.A.M.S. Cryptographic Override:** In parallel, F.A.M.S. will attempt to brute-force the master lockout code independently. If successful, F.A.M.S. immediately seizes full authority over all Reactor Operations systems and begins a fixed prep sequence:
+  1. Reconfigure the C-2500 array and adjust coolant flow to each Catalyzer for the desync attempt.
+  2. Bring all other supporting systems (venting mechanism, sensors, power routing) into a ready state.
+  3. **Hold at ready.** F.A.M.S. will refuse to actually trigger DVP, automatically or via manual command, until every non-dead C-2500 reports a completed reboot. A FAULTED-but-recoverable Catalyzer still blocks the trigger until it is cleared; only a confirmed-dead unit is excluded from this requirement.
 
-Whichever path resolves first triggers the next stage. Personnel should not assume F.A.M.S. will succeed, and should not stop their own override attempt once started.
+This means F.A.M.S. clearing the lock does not guarantee an immediate desync attempt, it guarantees the system is primed and waiting on Catalyzer status. Personnel racing to manually reboot FAULTED units are still on the critical path even after F.A.M.S. takes over, and should not assume F.A.M.S. cracking the code ends their part of the response.
+
+### 5.1.1 Handoff After Override Completion
+Once Reactor Operations personnel finish activating all required override switches, **F.A.M.S. immediately halts its own automated sequence** and yields priming authority back to R:O staff, standing by rather than proceeding unprompted. In this state, F.A.M.S. will explicitly **request permission** to assist with stabilization tasks (Catalyzer diagnostics, coolant balancing, etc.) if R:O requires the help, but will not act without that request.
+
+> **F.A.M.S.:** "Override circuit complete. Standing by. Requesting permission to assist with Catalyzer stabilization."
+
+**Automatic Takeover on Delay:** If no one primes DVP within the allotted response window after overrides are completed, F.A.M.S. will not wait indefinitely. It will forcibly initiate automatic DVP activation on its own authority. The consequences of this automatic activation are timing-dependent:
+* If F.A.M.S. forces activation **before** the response window closes and DVP integrity is still intact, the automatic trigger proceeds as a normal (if unauthorized) activation.
+
+> **F.A.M.S.:** "Sufficient timeout reached. Attempting automatic DVP immediately."
+
+* If F.A.M.S. is forced to act **after** DVP has already been compromised (e.g., by a networking failure or unresolved Catalyzer FAULT), the automatic activation carries a **penalty**, reduced success probability, incomplete desync, or a degraded vent, reflecting that F.A.M.S. is now acting on stale or incomplete system status rather than a clean handoff.
+
+> **F.A.M.S.:** "Warning. DVP integrity compromised prior to activation. Proceeding regardless, success probability degraded."
 
 ### 5.2 Stage One: Forced Desynchronization
 Once unlocked, the system immediately attempts to break Hex-Triad symmetry by staggering power delivery to the six C-2500 Catalyzers out of phase. A successful desync prevents the convergent compression required to reach Shatter Point, effectively causing the implosion to fail rather than succeed.
