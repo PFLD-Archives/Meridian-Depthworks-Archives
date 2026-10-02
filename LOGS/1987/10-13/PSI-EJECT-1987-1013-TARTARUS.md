@@ -4,7 +4,7 @@
 **Date:** October 13, 1987
 **Time:** 14:15
 **Location:** Tartarus Zone, Meridian Depthworks Centre
-**Participants:** Batista Nigel Cakewalk (CEO / Prime Minister), Randi Mathias (Site Director), Diane Cross (Board Liaison), Gerald Pike (Archivist), Patrick Anderson (P.S.O), David Robertson (Senior Scientist), F.A.M.S. (Main Core, distant, dying)
+**Participants:** Batista Nigel Cakewalk (CEO / Prime Minister), Randi Mathias (Site Director), Diane Cross (Board Liaison), Gerald Pike (Archivist), Patrick Anderson (P.S.O), David Robertson (Senior Scientist), Elena Voss (Senior Physicist), Marcus Feld (Materials Engineer), Ruby Roberson (Supervisor), Frank Osei (P.S.O), F.A.M.S. (Main Core, distant, dying)
 **Clearance:** INTERNAL
 
 ---
@@ -60,6 +60,14 @@
 **[14:16:07] ROBERTSON:** *(exhaling, leaning against the wall)* Thank god. *(pause)* F.A.M.S.?
 
 **[14:16:09] BATISTA:** Gone. Get everyone moving. We need to get topside and figure out what's left of this facility.
+
+**[14:16:11] VOSS:** *(arriving with Feld and Roberson, all three pale)* We were in Sector A when the alarms hit. Heard the shockwave from there. Is everyone— are the R:O team—
+
+**[14:16:13] BATISTA:** They ejected the cells. By hand. They're alive. That's all I know right now.
+
+**[14:16:15] FELD:** *(quietly)* Then we need to get topside before the structure decides to finish what it started.
+
+**[14:16:17] RANDI:** *(nodding)* I'll get the others moving. Osei, you're with me. Voss, Feld — get everyone topside. Now.
 
 **[14:16:11] BATISTA:** *(into radio, voice hardening)* Get me Parliament. This is the Prime Minister. I'm issuing an executive order: full evacuation of Meridian Depthworks, lock the entire facility down, and transport every injured person to hospital. Now.
 
